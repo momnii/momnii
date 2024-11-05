@@ -3,7 +3,7 @@
 
 🌱 I'm Momna, an ambitious and driven student with a passion for software development.</br> 
 💭 Every day is an opportunity to learn something new, and I’m always seeking challenges that help me grow as a developer.</br>
-👩🏽‍💻 Media IT student at the University of Cologne </br>
+👩🏽‍💻 Media IT student  </br>
 😄 Pronouns: she/her </br>
 
 # 💻 Tech Stack:
